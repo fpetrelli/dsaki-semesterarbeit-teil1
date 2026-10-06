@@ -1,0 +1,10 @@
+{
+  "html_sha256": "6d5bca3dc2db57fc1e73765e31d2b581ff328d78a1295fc98a582fe7e647de91",
+  "page": "index.html",
+  "payload_sha256": "95246cf099c1eabd70a999a43058f68062c2abaec8d9e54b10f37f6107bf9b37",
+  "source": {
+    "commit": "3ba929abc810dbdc7305ac4068d8ec2082ea432a",
+    "dirty": true
+  },
+  "transform_sha256": "98f0e5a29b3bbda21717b1530d95a5cac085baf135df889b919d3a44b29d5333"
+}
